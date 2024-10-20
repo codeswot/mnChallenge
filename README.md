@@ -4,9 +4,4 @@ Download Apk from Google Drive ([Download APK](https://drive.google.com/file/d/1
 
 ## Demo
 
-<p align="center">
-  <img src="assets/images/demo.gif" alt="Demo GIF" width="360" height="690">
-</p>
-
-
-![Demo GIF](assets/images/demo.gif)
+<img src="assets/images/demo.gif" alt="Demo GIF" width="360" height="690">
