@@ -101,7 +101,9 @@ class _SearchScreenState extends State<SearchScreen> {
                                 child: TextField(
                                   controller: searchController,
                                   focusNode: searchFocus,
-                                  style: AppTypography.label,
+                                  style: AppTypography.label.copyWith(
+                                    color: AppColors.colorA4957E,
+                                  ),
                                   decoration: const InputDecoration.collapsed(hintText: 'Search...'),
                                 ),
                               ),

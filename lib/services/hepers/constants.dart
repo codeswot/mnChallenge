@@ -50,7 +50,9 @@ final pageScreens = [
   ),
   Center(
     child: CircleAvatar(
+      
       radius: 50.r,
+      backgroundColor: AppColors.colorFC9D11,
       child: Center(
         child: AppIcon(
           icon: AppSvgIcons.user,
